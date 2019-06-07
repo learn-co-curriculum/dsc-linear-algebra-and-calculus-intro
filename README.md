@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 26 and why they'll be important to you as a data scientist.
+In this section, you'll learn about Linear Algebra and why it is important to its fundamentals as a data scientist.
 
 ## Objectives
 You will be able to:
@@ -39,9 +39,9 @@ We then dig into how to perform multiplication on vectors and matrices - another
 
 One of the main reasons that NumPy is the default mechanism that most data scientists use for storing and transforming data within Python (as opposed to native Lists and Dictionaries) is its computational efficiency. By getting you to calculate dot-products for modestly sized matrices, you get to experience the difference in performance between NumPy and raw Python data types.
 
-### Solving Systems of Linear Equiations using NumPy
+### Solving Systems of Linear Equations using NumPy
 
-We then bring the previous work together to look at how to use NumPy to solve systems of linear equiations, introducing the identity and inverse matrices along the way.
+We then bring the previous work together to look at how to use NumPy to solve systems of linear equations, introducing the identity and inverse matrices along the way.
 
 
 ### Regression Analysis Using Linear Algebra and NumPy
